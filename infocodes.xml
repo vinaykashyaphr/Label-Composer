@@ -1,0 +1,580 @@
+<root><structureObjectRule reasonForUpdateRefIds="CPF2009-141S1 IGBRTT-0015" changeMark="1" changeType="modify">
+<objectPath allowedObjectFlag="2">//dmIdent/dmCode/@infoCode</objectPath>
+<objectUse>Attribute infoCode - The data module information code (Chap 8.4.1).</objectUse>
+<objectValue valueForm="single" valueAllowed="000" valueTailoring="restrictable">Function, data for plans and description</objectValue>
+<objectValue valueForm="single" valueAllowed="001" valueTailoring="restrictable">Title page</objectValue>
+<objectValue valueForm="single" valueAllowed="002" valueTailoring="restrictable">List of pages or data modules</objectValue>
+<objectValue valueForm="single" valueAllowed="003" valueTailoring="restrictable">Change record or highlights</objectValue>
+<objectValue valueForm="single" valueAllowed="004" valueTailoring="restrictable">Access illustration</objectValue>
+<objectValue valueForm="single" valueAllowed="005" valueTailoring="restrictable">List of abbreviations</objectValue>
+<objectValue valueForm="single" valueAllowed="006" valueTailoring="restrictable">List of terms</objectValue>
+<objectValue valueForm="single" valueAllowed="007" valueTailoring="restrictable">List of symbols</objectValue>
+<objectValue valueForm="single" valueAllowed="008" valueTailoring="restrictable">Technical standard record</objectValue>
+<objectValue valueForm="single" valueAllowed="009" valueTailoring="restrictable">Table of contents</objectValue>
+<objectValue valueForm="single" valueAllowed="010" valueTailoring="restrictable">General data</objectValue>
+<objectValue valueForm="single" valueAllowed="011" valueTailoring="restrictable">Function</objectValue>
+<objectValue valueForm="single" valueAllowed="012" valueTailoring="restrictable">General warnings and cautions and related safety data</objectValue>
+<objectValue valueForm="single" valueAllowed="013" valueTailoring="restrictable">Numeric index</objectValue>
+<objectValue valueForm="single" valueAllowed="014" valueTailoring="restrictable">Alphabetic and alphanumeric index</objectValue>
+<objectValue valueForm="single" valueAllowed="015" valueTailoring="restrictable">List of special materials</objectValue>
+<objectValue valueForm="single" valueAllowed="016" valueTailoring="restrictable">List of dangerous materials</objectValue>
+<objectValue valueForm="single" valueAllowed="017" valueTailoring="restrictable">List of related data</objectValue>
+<objectValue valueForm="single" valueAllowed="018" valueTailoring="restrictable">Introduction</objectValue>
+<objectValue valueForm="single" valueAllowed="019" valueTailoring="restrictable">Supplier list</objectValue>
+<objectValue valueForm="single" valueAllowed="020" valueTailoring="restrictable">Configuration</objectValue>
+<objectValue valueForm="single" valueAllowed="021" valueTailoring="restrictable">Copyright</objectValue>
+<objectValue valueForm="single" valueAllowed="022" valueTailoring="restrictable">Business rules</objectValue>
+<objectValue valueForm="single" valueAllowed="023" valueTailoring="restrictable">Administrative forms and data</objectValue>
+<objectValue valueForm="single" valueAllowed="028" valueTailoring="restrictable">General</objectValue>
+<objectValue valueForm="single" valueAllowed="029" valueTailoring="restrictable">Data structure</objectValue>
+<objectValue valueForm="single" valueAllowed="030" valueTailoring="restrictable">Technical data</objectValue>
+<objectValue valueForm="single" valueAllowed="031" valueTailoring="restrictable">Electrical standard parts data</objectValue>
+<objectValue valueForm="single" valueAllowed="033" valueTailoring="restrictable">Technical data (functional breakdown)</objectValue>
+<objectValue valueForm="single" valueAllowed="034" valueTailoring="restrictable">Technical data (physical breakdown)</objectValue>
+<objectValue valueForm="single" valueAllowed="040" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2009-036AA" changeMark="1" changeType="modify">Description</objectValue>
+<objectValue valueForm="single" valueAllowed="041" valueTailoring="restrictable">Description of how it is made</objectValue>
+<objectValue valueForm="single" valueAllowed="042" valueTailoring="restrictable">Description of function</objectValue>
+<objectValue valueForm="single" valueAllowed="043" valueTailoring="restrictable">Description of function attributed to crew (functional breakdown)</objectValue>
+<objectValue valueForm="single" valueAllowed="044" valueTailoring="restrictable">Description of function (physical breakdown)</objectValue>
+<objectValue valueForm="single" valueAllowed="045" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2011-008DE" changeMark="1" changeType="add">Designated use</objectValue>
+<objectValue valueForm="single" valueAllowed="046" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2011-008DE" changeMark="1" changeType="add">Dependence on peripheral systems/equipment</objectValue>
+<objectValue valueForm="single" valueAllowed="050" valueTailoring="restrictable">Diagram/List</objectValue>
+<objectValue valueForm="single" valueAllowed="051" valueTailoring="restrictable">Wiring diagram</objectValue>
+<objectValue valueForm="single" valueAllowed="052" valueTailoring="restrictable">Routing diagram</objectValue>
+<objectValue valueForm="single" valueAllowed="053" valueTailoring="restrictable">Connection list</objectValue>
+<objectValue valueForm="single" valueAllowed="054" valueTailoring="restrictable">Schematic diagram</objectValue>
+<objectValue valueForm="single" valueAllowed="055" valueTailoring="restrictable">Location diagram</objectValue>
+<objectValue valueForm="single" valueAllowed="056" valueTailoring="restrictable">Equipment list</objectValue>
+<objectValue valueForm="single" valueAllowed="057" valueTailoring="restrictable">Wire list</objectValue>
+<objectValue valueForm="single" valueAllowed="058" valueTailoring="restrictable">Harness list</objectValue>
+<objectValue valueForm="single" valueAllowed="059" valueTailoring="restrictable">Maintenance envelope diagram</objectValue>
+<objectValue valueForm="single" valueAllowed="060" valueTailoring="restrictable">Product support equipment, tools and software</objectValue>
+<objectValue valueForm="single" valueAllowed="061" valueTailoring="restrictable">Special support equipment and tools</objectValue>
+<objectValue valueForm="single" valueAllowed="062" valueTailoring="restrictable">Standard support equipment and tools</objectValue>
+<objectValue valueForm="single" valueAllowed="063" valueTailoring="restrictable">Government supplied support equipment and tools</objectValue>
+<objectValue valueForm="single" valueAllowed="064" valueTailoring="restrictable">Locally made support equipment and tools</objectValue>
+<objectValue valueForm="single" valueAllowed="065" valueTailoring="restrictable">Software</objectValue>
+<objectValue valueForm="single" valueAllowed="066" valueTailoring="restrictable">Support equipment and tools data</objectValue>
+<objectValue valueForm="single" valueAllowed="067" valueTailoring="restrictable">Decals and instruction plates</objectValue>
+<objectValue valueForm="single" valueAllowed="070" valueTailoring="restrictable">Consumables, materials and expendables Supplies</objectValue>
+<objectValue valueForm="single" valueAllowed="071" valueTailoring="restrictable">Consumables</objectValue>
+<objectValue valueForm="single" valueAllowed="072" valueTailoring="restrictable">Materials</objectValue>
+<objectValue valueForm="single" valueAllowed="073" valueTailoring="restrictable">Expendables</objectValue>
+<objectValue valueForm="single" valueAllowed="074" valueTailoring="restrictable">Data sheet for dangerous consumables and materials</objectValue>
+<objectValue valueForm="single" valueAllowed="075" valueTailoring="restrictable">Parts list</objectValue>
+<objectValue valueForm="single" valueAllowed="076" valueTailoring="restrictable">Fluid</objectValue>
+<objectValue valueForm="single" valueAllowed="077" valueTailoring="restrictable">Data sheet for consumables and materials</objectValue>
+<objectValue valueForm="single" valueAllowed="078" valueTailoring="restrictable">Fasteners</objectValue>
+<objectValue valueForm="single" valueAllowed="080" valueTailoring="restrictable">Mixture and solution</objectValue>
+<objectValue valueForm="single" valueAllowed="081" valueTailoring="restrictable">Chemical solution</objectValue>
+<objectValue valueForm="single" valueAllowed="082" valueTailoring="restrictable">Chemical mixture</objectValue>
+<objectValue valueForm="single" valueAllowed="090" valueTailoring="restrictable">Software documentation</objectValue>
+<objectValue valueForm="single" valueAllowed="096" valueTailoring="restrictable">Safety items and parts</objectValue>
+<objectValue valueForm="single" valueAllowed="00A" valueTailoring="restrictable">List of illustrations</objectValue>
+<objectValue valueForm="single" valueAllowed="00B" valueTailoring="restrictable">List of support equipment</objectValue>
+<objectValue valueForm="single" valueAllowed="00C" valueTailoring="restrictable">List of supplies</objectValue>
+<objectValue valueForm="single" valueAllowed="00D" valueTailoring="restrictable">List of spares</objectValue>
+<objectValue valueForm="single" valueAllowed="00E" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2006-054AA" changeMark="1" changeType="modify">Functional item numbers common information repository</objectValue>
+<objectValue valueForm="single" valueAllowed="00F" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2006-054AA" changeMark="1" changeType="modify">Circuit breakers common information repository</objectValue>
+<objectValue valueForm="single" valueAllowed="00G" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2006-054AA" changeMark="1" changeType="modify">Parts common information repository</objectValue>
+<objectValue valueForm="single" valueAllowed="00H" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2006-054AA" changeMark="1" changeType="modify">Zones common information repository</objectValue>
+<objectValue valueForm="single" valueAllowed="00J" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2006-054AA" changeMark="1" changeType="modify">Access panels and doors common information repository</objectValue>
+<objectValue valueForm="single" valueAllowed="00K" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2006-054AA" changeMark="1" changeType="modify">Organizations common information repository</objectValue>
+<objectValue valueForm="single" valueAllowed="00L" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2006-054AA" changeMark="1" changeType="modify">Supplies - List of products common information repository</objectValue>
+<objectValue valueForm="single" valueAllowed="00M" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2006-054AA" changeMark="1" changeType="modify">Supplies - List of requirements common information repository</objectValue>
+<objectValue valueForm="single" valueAllowed="00N" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2006-054AA" changeMark="1" changeType="modify">Support equipment common information repository</objectValue>
+<objectValue valueForm="single" valueAllowed="00P" valueTailoring="restrictable">Product Cross-reference Table (PCT)</objectValue>
+<objectValue valueForm="single" valueAllowed="00Q" valueTailoring="restrictable">Conditions Cross-reference Table (CCT)</objectValue>
+<objectValue valueForm="single" valueAllowed="00R" valueTailoring="restrictable">List of effective pages</objectValue>
+<objectValue valueForm="single" valueAllowed="00S" valueTailoring="restrictable">List of effective data modules</objectValue>
+<objectValue valueForm="single" valueAllowed="00T" valueTailoring="restrictable">Change record</objectValue>
+<objectValue valueForm="single" valueAllowed="00U" valueTailoring="restrictable">Highlights</objectValue>
+<objectValue valueForm="single" valueAllowed="00V" valueTailoring="restrictable">List of applicable specifications and documentation</objectValue>
+<objectValue valueForm="single" valueAllowed="00W" valueTailoring="restrictable">Applicability Cross-reference Table (ACT)</objectValue>
+<objectValue valueForm="single" valueAllowed="00X" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2006-054AA" changeMark="1" changeType="modify">Controls and indicators common information repository</objectValue>
+<objectValue valueForm="single" valueAllowed="00Y" valueTailoring="restrictable">List of charts and forms</objectValue>
+<objectValue valueForm="single" valueAllowed="00Z" valueTailoring="restrictable">List of tables</objectValue>
+<objectValue valueForm="single" valueAllowed="0A1" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2006-054AA" changeMark="1" changeType="modify">Functional and/or physical areas common information repository</objectValue>
+<objectValue valueForm="single" valueAllowed="0A2" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2009-144S1" changeMark="1" changeType="add">Applicability repository</objectValue>
+<objectValue valueForm="single" valueAllowed="0A3" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2008-020S1" changeMark="1" changeType="add">Applicability Cross-reference Table catalog</objectValue>
+<objectValue valueForm="single" valueAllowed="0B0" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2009-036AA" changeMark="1" changeType="add">Maintenance planning information</objectValue>
+<objectValue valueForm="single" valueAllowed="0B1" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2009-036AA" changeMark="1" changeType="add">Time limits</objectValue>
+<objectValue valueForm="single" valueAllowed="0B2" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2009-036AA" changeMark="1" changeType="add">System maintenance/Inspection tasks list</objectValue>
+<objectValue valueForm="single" valueAllowed="0B3" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2009-036AA" changeMark="1" changeType="add">Structure maintenance/inspection tasks lists</objectValue>
+<objectValue valueForm="single" valueAllowed="0B4" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2009-036AA" changeMark="1" changeType="add">Zonal maintenance/inspection tasks list</objectValue>
+<objectValue valueForm="single" valueAllowed="0B5" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2009-036AA" changeMark="1" changeType="add">Unscheduled check</objectValue>
+<objectValue valueForm="single" valueAllowed="100" valueTailoring="restrictable">Operation</objectValue>
+<objectValue valueForm="single" valueAllowed="101" valueTailoring="restrictable">List of consumables associated with operation</objectValue>
+<objectValue valueForm="single" valueAllowed="102" valueTailoring="restrictable">List of materials associated with operation</objectValue>
+<objectValue valueForm="single" valueAllowed="103" valueTailoring="restrictable">List of expendables associated with operation</objectValue>
+<objectValue valueForm="single" valueAllowed="104" valueTailoring="restrictable">List of special support equipment and tools associated with operation</objectValue>
+<objectValue valueForm="single" valueAllowed="105" valueTailoring="restrictable">List of support equipment and tools associated with operation</objectValue>
+<objectValue valueForm="single" valueAllowed="106" valueTailoring="restrictable">List of software associated with operation</objectValue>
+<objectValue valueForm="single" valueAllowed="107" valueTailoring="restrictable">Parts list associated with operation</objectValue>
+<objectValue valueForm="single" valueAllowed="110" valueTailoring="restrictable">Controls and indicators</objectValue>
+<objectValue valueForm="single" valueAllowed="111" valueTailoring="restrictable">Controls and indicators</objectValue>
+<objectValue valueForm="single" valueAllowed="112" valueTailoring="restrictable">Modes of operation This code is used for crew</objectValue>
+<objectValue valueForm="single" valueAllowed="115" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2008-018US" changeMark="1" changeType="add">Displays and alerts</objectValue>
+<objectValue valueForm="single" valueAllowed="120" valueTailoring="restrictable">Pre-operation</objectValue>
+<objectValue valueForm="single" valueAllowed="121" valueTailoring="restrictable">Pre-operation procedure This code is used for crew</objectValue>
+<objectValue valueForm="single" valueAllowed="122" valueTailoring="restrictable">Siting</objectValue>
+<objectValue valueForm="single" valueAllowed="123" valueTailoring="restrictable">Shelter</objectValue>
+<objectValue valueForm="single" valueAllowed="125" valueTailoring="restrictable">Pre-operation procedures checklist - this code is used for crew</objectValue>
+<objectValue valueForm="single" valueAllowed="126" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2008-033US" changeMark="1" changeType="add">Conditions of readiness</objectValue>
+<objectValue valueForm="single" valueAllowed="127" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2011-008DE" changeMark="1" changeType="add">Establish operating position</objectValue>
+<objectValue valueForm="single" valueAllowed="130" valueTailoring="restrictable">Normal operation</objectValue>
+<objectValue valueForm="single" valueAllowed="131" valueTailoring="restrictable">Normal operation procedure This code is used for crew</objectValue>
+<objectValue valueForm="single" valueAllowed="132" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2009-090DE" changeMark="1" changeType="add">Start-up procedure for maintenance</objectValue>
+<objectValue valueForm="single" valueAllowed="133" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2009-090DE" changeMark="1" changeType="add">Shutdown procedure for maintenance</objectValue>
+<objectValue valueForm="single" valueAllowed="134" valueTailoring="restrictable">Aviation checklist</objectValue>
+<objectValue valueForm="single" valueAllowed="135" valueTailoring="restrictable">Normal operation procedures checklist This code is used for crew</objectValue>
+<objectValue valueForm="single" valueAllowed="136" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2011-008DE" changeMark="1" changeType="add">Ground running check</objectValue>
+<objectValue valueForm="single" valueAllowed="138" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2011-008DE" changeMark="1" changeType="add">Ground running and performance adjustment</objectValue>
+<objectValue valueForm="single" valueAllowed="139" valueTailoring="restrictable">Nuclear, biological and chemical procedures</objectValue>
+<objectValue valueForm="single" valueAllowed="140" valueTailoring="restrictable">Emergency procedure</objectValue>
+<objectValue valueForm="single" valueAllowed="141" valueTailoring="restrictable">Emergency operation procedure This code is used for crew</objectValue>
+<objectValue valueForm="single" valueAllowed="142" valueTailoring="restrictable">Operation under unusual conditions</objectValue>
+<objectValue valueForm="single" valueAllowed="143" valueTailoring="restrictable">Radio interference suppression</objectValue>
+<objectValue valueForm="single" valueAllowed="144" valueTailoring="restrictable">Jamming and electronic countermeasures (ECM)</objectValue>
+<objectValue valueForm="single" valueAllowed="145" valueTailoring="restrictable">Emergency operation procedures checklist This code is used for crew</objectValue>
+<objectValue valueForm="single" valueAllowed="146" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2008-018US" changeMark="1" changeType="add">Emergency shutdown operation procedure (Checklist)</objectValue>
+<objectValue valueForm="single" valueAllowed="150" valueTailoring="restrictable">Post-operation</objectValue>
+<objectValue valueForm="single" valueAllowed="151" valueTailoring="restrictable">Post-operation procedure This code is used for crew</objectValue>
+<objectValue valueForm="single" valueAllowed="155" valueTailoring="restrictable">Post-operation procedures checklist This code is used for crew</objectValue>
+<objectValue valueForm="single" valueAllowed="157" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2011-008DE" changeMark="1" changeType="add">Establish maintenance position</objectValue>
+<objectValue valueForm="single" valueAllowed="160" valueTailoring="restrictable">Loading/Unloading procedure</objectValue>
+<objectValue valueForm="single" valueAllowed="161" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2008-018US" changeMark="1" changeType="add">Special operation</objectValue>
+<objectValue valueForm="single" valueAllowed="162" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2008-018US" changeMark="1" changeType="add">Non-tactical operation</objectValue>
+<objectValue valueForm="single" valueAllowed="169" valueTailoring="restrictable">Mass and Balance</objectValue>
+<objectValue valueForm="single" valueAllowed="170" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2009-036AA" changeMark="1" changeType="add">Handling</objectValue>
+<objectValue valueForm="single" valueAllowed="171" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2009-036AA" changeMark="1" changeType="add">Lifting</objectValue>
+<objectValue valueForm="single" valueAllowed="172" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2009-036AA" changeMark="1" changeType="add">Jacking</objectValue>
+<objectValue valueForm="single" valueAllowed="173" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2009-036AA" changeMark="1" changeType="add">Shoring</objectValue>
+<objectValue valueForm="single" valueAllowed="174" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2009-036AA" changeMark="1" changeType="add">Towing</objectValue>
+<objectValue valueForm="single" valueAllowed="175" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2009-036AA" changeMark="1" changeType="add">Taxiing</objectValue>
+<objectValue valueForm="single" valueAllowed="176" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2009-036AA" changeMark="1" changeType="add">Lowering</objectValue>
+<objectValue valueForm="single" valueAllowed="177" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2009-036AA" changeMark="1" changeType="add">Stabilizing</objectValue>
+<objectValue valueForm="single" valueAllowed="178" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2009-036AA" changeMark="1" changeType="add">Tethering</objectValue>
+<objectValue valueForm="single" valueAllowed="179" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2009-036AA" changeMark="1" changeType="add">Debogging</objectValue>
+<objectValue valueForm="single" valueAllowed="180" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2009-036AA" changeMark="1" changeType="add">Dispatch deviation</objectValue>
+<objectValue valueForm="single" valueAllowed="181" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2009-036AA" changeMark="1" changeType="add">Deactivate for dispatch deviation</objectValue>
+<objectValue valueForm="pattern" valueAllowed="[1][0-8][A-Z]">Project available</objectValue>
+<objectValue valueForm="single" valueAllowed="200" valueTailoring="restrictable">Servicing</objectValue>
+<objectValue valueForm="single" valueAllowed="201" valueTailoring="restrictable">List of consumables associated with servicing</objectValue>
+<objectValue valueForm="single" valueAllowed="202" valueTailoring="restrictable">List of materials associated with servicing</objectValue>
+<objectValue valueForm="single" valueAllowed="203" valueTailoring="restrictable">List of expendables associated with servicing</objectValue>
+<objectValue valueForm="single" valueAllowed="204" valueTailoring="restrictable">List of special support equipment and tools associated with servicing</objectValue>
+<objectValue valueForm="single" valueAllowed="205" valueTailoring="restrictable">List of support equipment and tools associated with servicing</objectValue>
+<objectValue valueForm="single" valueAllowed="206" valueTailoring="restrictable">List of software associated with servicing</objectValue>
+<objectValue valueForm="single" valueAllowed="207" valueTailoring="restrictable">Parts list associated with servicing</objectValue>
+<objectValue valueForm="single" valueAllowed="210" valueTailoring="restrictable">Fill</objectValue>
+<objectValue valueForm="single" valueAllowed="211" valueTailoring="restrictable">Refuel</objectValue>
+<objectValue valueForm="single" valueAllowed="212" valueTailoring="restrictable">Fill with oil</objectValue>
+<objectValue valueForm="single" valueAllowed="213" valueTailoring="restrictable">Fill with oxygen</objectValue>
+<objectValue valueForm="single" valueAllowed="214" valueTailoring="restrictable">Fill with nitrogen</objectValue>
+<objectValue valueForm="single" valueAllowed="215" valueTailoring="restrictable">Fill with air</objectValue>
+<objectValue valueForm="single" valueAllowed="216" valueTailoring="restrictable">Fill with water</objectValue>
+<objectValue valueForm="single" valueAllowed="217" valueTailoring="restrictable">Fill with hydrogen</objectValue>
+<objectValue valueForm="single" valueAllowed="218" valueTailoring="restrictable">Fill with other liquid</objectValue>
+<objectValue valueForm="single" valueAllowed="219" valueTailoring="restrictable">Fill with other gas</objectValue>
+<objectValue valueForm="single" valueAllowed="220" valueTailoring="restrictable">Drain liquid and release pressure</objectValue>
+<objectValue valueForm="single" valueAllowed="221" valueTailoring="restrictable">Defuel and drain fuel</objectValue>
+<objectValue valueForm="single" valueAllowed="222" valueTailoring="restrictable">Drain oil</objectValue>
+<objectValue valueForm="single" valueAllowed="223" valueTailoring="restrictable">Release oxygen pressure</objectValue>
+<objectValue valueForm="single" valueAllowed="224" valueTailoring="restrictable">Release nitrogen pressure</objectValue>
+<objectValue valueForm="single" valueAllowed="225" valueTailoring="restrictable">Release air pressure</objectValue>
+<objectValue valueForm="single" valueAllowed="226" valueTailoring="restrictable">Drain water</objectValue>
+<objectValue valueForm="single" valueAllowed="227" valueTailoring="restrictable">Release hydrogen pressure</objectValue>
+<objectValue valueForm="single" valueAllowed="228" valueTailoring="restrictable">Drain other liquid</objectValue>
+<objectValue valueForm="single" valueAllowed="229" valueTailoring="restrictable">Release other gas pressure</objectValue>
+<objectValue valueForm="single" valueAllowed="230" valueTailoring="restrictable">Bleed and prime</objectValue>
+<objectValue valueForm="single" valueAllowed="231" valueTailoring="restrictable">Bleed</objectValue>
+<objectValue valueForm="single" valueAllowed="232" valueTailoring="restrictable">Prime</objectValue>
+<objectValue valueForm="single" valueAllowed="233" valueTailoring="restrictable">Dry</objectValue>
+<objectValue valueForm="single" valueAllowed="234" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2008-018US" changeMark="1" changeType="add">Facility requirements associated with servicing</objectValue>
+<objectValue valueForm="single" valueAllowed="236" valueTailoring="restrictable">Fill with inert gas/inert liquid</objectValue>
+<objectValue valueForm="single" valueAllowed="237" valueTailoring="restrictable">Evacuate</objectValue>
+<objectValue valueForm="single" valueAllowed="240" valueTailoring="restrictable">Lubrication</objectValue>
+<objectValue valueForm="single" valueAllowed="241" valueTailoring="restrictable">Oil</objectValue>
+<objectValue valueForm="single" valueAllowed="242" valueTailoring="restrictable">Grease</objectValue>
+<objectValue valueForm="single" valueAllowed="243" valueTailoring="restrictable">Dry film</objectValue>
+<objectValue valueForm="single" valueAllowed="250" valueTailoring="restrictable">Clean and apply surface protection</objectValue>
+<objectValue valueForm="single" valueAllowed="251" valueTailoring="restrictable">Clean with chemical agent</objectValue>
+<objectValue valueForm="single" valueAllowed="252" valueTailoring="restrictable">Clean by abrasive blast</objectValue>
+<objectValue valueForm="single" valueAllowed="253" valueTailoring="restrictable">Clean by ultrasonics</objectValue>
+<objectValue valueForm="single" valueAllowed="254" valueTailoring="restrictable">Clean mechanically</objectValue>
+<objectValue valueForm="single" valueAllowed="255" valueTailoring="restrictable">Purge</objectValue>
+<objectValue valueForm="single" valueAllowed="256" valueTailoring="restrictable">Polish and apply wax</objectValue>
+<objectValue valueForm="single" valueAllowed="257" valueTailoring="restrictable">Paint and apply marking</objectValue>
+<objectValue valueForm="single" valueAllowed="258" valueTailoring="restrictable">Other procedure to clean</objectValue>
+<objectValue valueForm="single" valueAllowed="259" valueTailoring="restrictable">Other procedure to protect surfaces</objectValue>
+<objectValue valueForm="single" valueAllowed="260" valueTailoring="restrictable">Remove and prevent ice and remove contamination</objectValue>
+<objectValue valueForm="single" valueAllowed="261" valueTailoring="restrictable">Remove ice</objectValue>
+<objectValue valueForm="single" valueAllowed="262" valueTailoring="restrictable">Prevent ice</objectValue>
+<objectValue valueForm="single" valueAllowed="263" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2009-036AA" changeMark="1" changeType="modify">Use disinfectant/Sanitize</objectValue>
+<objectValue valueForm="single" valueAllowed="264" valueTailoring="restrictable">Remove contamination</objectValue>
+<objectValue valueForm="single" valueAllowed="270" valueTailoring="restrictable">Adjust, align and calibrate</objectValue>
+<objectValue valueForm="single" valueAllowed="271" valueTailoring="restrictable">Adjust</objectValue>
+<objectValue valueForm="single" valueAllowed="272" valueTailoring="restrictable">Align</objectValue>
+<objectValue valueForm="single" valueAllowed="273" valueTailoring="restrictable">Calibrate</objectValue>
+<objectValue valueForm="single" valueAllowed="274" valueTailoring="restrictable">Harmonize</objectValue>
+<objectValue valueForm="single" valueAllowed="275" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2008-018US" changeMark="1" changeType="add">Grooming</objectValue>
+<objectValue valueForm="single" valueAllowed="276" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2009-036AA" changeMark="1" changeType="add">Rig</objectValue>
+<objectValue valueForm="single" valueAllowed="277" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2011-008DE" changeMark="1" changeType="add">Compensate</objectValue>
+<objectValue valueForm="single" valueAllowed="278" valueTailoring="restrictable">Easily and quickly adjust after a battle damage repair</objectValue>
+<objectValue valueForm="single" valueAllowed="279" valueTailoring="restrictable">Easily and quickly align after a battle damage repair</objectValue>
+<objectValue valueForm="single" valueAllowed="280" valueTailoring="restrictable">Inspection</objectValue>
+<objectValue valueForm="single" valueAllowed="281" valueTailoring="restrictable">Scheduled inspection</objectValue>
+<objectValue valueForm="single" valueAllowed="282" valueTailoring="restrictable">Unscheduled inspection</objectValue>
+<objectValue valueForm="single" valueAllowed="283" valueTailoring="restrictable">Special regular inspection</objectValue>
+<objectValue valueForm="single" valueAllowed="284" valueTailoring="restrictable">Special irregular inspection</objectValue>
+<objectValue valueForm="single" valueAllowed="285" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2009-109AA" changeMark="1" changeType="add">Structure inspections for allowable damage limits</objectValue>
+<objectValue valueForm="single" valueAllowed="286" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2009-109AA" changeMark="1" changeType="add">Structure inspections for repair</objectValue>
+<objectValue valueForm="single" valueAllowed="288" valueTailoring="restrictable">Overhaul and retirement schedule</objectValue>
+<objectValue valueForm="single" valueAllowed="289" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2011-008DE" changeMark="1" changeType="add">Check for filling quantity</objectValue>
+<objectValue valueForm="single" valueAllowed="290" valueTailoring="restrictable">Change of liquid/gas</objectValue>
+<objectValue valueForm="single" valueAllowed="292" valueTailoring="restrictable">Change of oil Code 222 + code 212</objectValue>
+<objectValue valueForm="single" valueAllowed="293" valueTailoring="restrictable">Change of oxygen Code 223 + code 213</objectValue>
+<objectValue valueForm="single" valueAllowed="294" valueTailoring="restrictable">Change of nitrogen Code 224 + code 214</objectValue>
+<objectValue valueForm="single" valueAllowed="295" valueTailoring="restrictable">Change of air Code 225 + code 215</objectValue>
+<objectValue valueForm="single" valueAllowed="296" valueTailoring="restrictable">Change of water Code 226 + code 216</objectValue>
+<objectValue valueForm="single" valueAllowed="297" valueTailoring="restrictable">Change of hydrogen</objectValue>
+<objectValue valueForm="single" valueAllowed="298" valueTailoring="restrictable">Change of other liquid Code 228 + code 218</objectValue>
+<objectValue valueForm="single" valueAllowed="299" valueTailoring="restrictable">Change of other gas Code 229 + code 219</objectValue> 	
+<objectValue valueForm="pattern" valueAllowed="[2][0-9][A-Z]">Project available</objectValue>
+<objectValue valueForm="single" valueAllowed="300" valueTailoring="restrictable">Examinations, tests and checks</objectValue>
+<objectValue valueForm="single" valueAllowed="301" valueTailoring="restrictable">List of consumables associated with examinations, tests and checks</objectValue>
+<objectValue valueForm="single" valueAllowed="302" valueTailoring="restrictable">List of materials associated with examinations, tests and checks</objectValue>
+<objectValue valueForm="single" valueAllowed="303" valueTailoring="restrictable">List of expendables associated with examinations, tests and checks</objectValue>
+<objectValue valueForm="single" valueAllowed="304" valueTailoring="restrictable">List of special support equipment and tools associated with examinations, tests and checks</objectValue>
+<objectValue valueForm="single" valueAllowed="305" valueTailoring="restrictable">List of support equipment and tools associated with examinations, tests and checks</objectValue>
+<objectValue valueForm="single" valueAllowed="306" valueTailoring="restrictable">List of software associated with examinations, tests and checks</objectValue>
+<objectValue valueForm="single" valueAllowed="307" valueTailoring="restrictable">Parts list associated with examinations, tests and checks</objectValue>
+<objectValue valueForm="single" valueAllowed="310" valueTailoring="restrictable">Visual examination</objectValue>
+<objectValue valueForm="single" valueAllowed="311" valueTailoring="restrictable">Visual examination without special equipment</objectValue>
+<objectValue valueForm="single" valueAllowed="312" valueTailoring="restrictable">Examination with a borescope</objectValue>
+<objectValue valueForm="single" valueAllowed="315" valueTailoring="restrictable">QA requirements</objectValue>
+<objectValue valueForm="single" valueAllowed="320" valueTailoring="restrictable">Operation test</objectValue>
+<objectValue valueForm="single" valueAllowed="321" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2008-018US" changeMark="1" changeType="add">Unit Break-in</objectValue>
+<objectValue valueForm="single" valueAllowed="322" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2008-018US" changeMark="1" changeType="add">Test and inspection</objectValue>
+<objectValue valueForm="single" valueAllowed="330" valueTailoring="restrictable">Test preparation</objectValue>
+<objectValue valueForm="single" valueAllowed="331" valueTailoring="restrictable">Connection of test equipment</objectValue>
+<objectValue valueForm="single" valueAllowed="332" valueTailoring="restrictable">Removal of test equipment</objectValue>
+<objectValue valueForm="single" valueAllowed="333" valueTailoring="restrictable">Installation of the unit before the test</objectValue>
+<objectValue valueForm="single" valueAllowed="334" valueTailoring="restrictable">Removal of the unit after the test</objectValue>
+<objectValue valueForm="single" valueAllowed="335" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2011-008DE" changeMark="1" changeType="add">Concluding Final measures</objectValue>
+<objectValue valueForm="single" valueAllowed="340" valueTailoring="restrictable">Function test</objectValue>
+<objectValue valueForm="single" valueAllowed="341" valueTailoring="restrictable">Manual test</objectValue>
+<objectValue valueForm="single" valueAllowed="342" valueTailoring="restrictable">Automatic test</objectValue>
+<objectValue valueForm="single" valueAllowed="343" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2009-036AA" changeMark="1" changeType="modify">BIT</objectValue>
+<objectValue valueForm="single" valueAllowed="344" valueTailoring="restrictable">Compatibility test</objectValue>
+<objectValue valueForm="single" valueAllowed="345" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2009-036AA" changeMark="1" changeType="add">System test</objectValue>
+<objectValue valueForm="single" valueAllowed="346" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2009-036AA" changeMark="1" changeType="add">Other check</objectValue>
+<objectValue valueForm="single" valueAllowed="347" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2008-018US" changeMark="1" changeType="add">Start-up procedure for test</objectValue>
+<objectValue valueForm="single" valueAllowed="348" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2008-018US" changeMark="1" changeType="add">Finial acceptance test (FAT)</objectValue>
+<objectValue valueForm="single" valueAllowed="349" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2011-008DE" changeMark="1" changeType="add">Test results</objectValue>
+<objectValue valueForm="single" valueAllowed="350" valueTailoring="restrictable">Structure test</objectValue>
+<objectValue valueForm="single" valueAllowed="351" valueTailoring="restrictable">Test for surface cracks with dye penetrant</objectValue>
+<objectValue valueForm="single" valueAllowed="352" valueTailoring="restrictable">Test for surface cracks with magnetic particles</objectValue>
+<objectValue valueForm="single" valueAllowed="353" valueTailoring="restrictable">Test for cracks and other defects with eddy current</objectValue>
+<objectValue valueForm="single" valueAllowed="354" valueTailoring="restrictable">Test for cracks and other defects with X-rays</objectValue>
+<objectValue valueForm="single" valueAllowed="355" valueTailoring="restrictable">Test for cracks and other defects with ultrasonic</objectValue>
+<objectValue valueForm="single" valueAllowed="356" valueTailoring="restrictable">Hardness test</objectValue>
+<objectValue valueForm="single" valueAllowed="357" valueTailoring="restrictable">Gamma ray</objectValue>
+<objectValue valueForm="single" valueAllowed="358" valueTailoring="restrictable">Resonance frequency</objectValue>
+<objectValue valueForm="single" valueAllowed="359" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2009-036AA" changeMark="1" changeType="add">Thermographic test</objectValue>
+<objectValue valueForm="single" valueAllowed="360" valueTailoring="restrictable">Design data/tolerances check</objectValue>
+<objectValue valueForm="single" valueAllowed="361" valueTailoring="restrictable">Dimensions check</objectValue>
+<objectValue valueForm="single" valueAllowed="362" valueTailoring="restrictable">Pressure check</objectValue>
+<objectValue valueForm="single" valueAllowed="363" valueTailoring="restrictable">Flow check</objectValue>
+<objectValue valueForm="single" valueAllowed="364" valueTailoring="restrictable">Leak check</objectValue>
+<objectValue valueForm="single" valueAllowed="365" valueTailoring="restrictable">Continuity check</objectValue>
+<objectValue valueForm="single" valueAllowed="366" valueTailoring="restrictable">Resistance check</objectValue>
+<objectValue valueForm="single" valueAllowed="367" valueTailoring="restrictable">Electrical power check</objectValue>
+<objectValue valueForm="single" valueAllowed="368" valueTailoring="restrictable">Signal strength check</objectValue>
+<objectValue valueForm="single" valueAllowed="369" valueTailoring="restrictable">Other check</objectValue>
+<objectValue valueForm="single" valueAllowed="370" valueTailoring="restrictable">Monitor the condition</objectValue>
+<objectValue valueForm="single" valueAllowed="371" valueTailoring="restrictable">Oil analysis</objectValue>
+<objectValue valueForm="single" valueAllowed="372" valueTailoring="restrictable">Vibration analysis</objectValue>
+<objectValue valueForm="single" valueAllowed="373" valueTailoring="restrictable">Tracking check</objectValue>
+<objectValue valueForm="single" valueAllowed="374" valueTailoring="restrictable">Fuel analysis</objectValue>
+<objectValue valueForm="single" valueAllowed="375" valueTailoring="restrictable">Shooting accidental discharge analysis</objectValue>
+<objectValue valueForm="single" valueAllowed="376" valueTailoring="restrictable">Check post application of adhesive</objectValue>
+<objectValue valueForm="single" valueAllowed="377" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2009-036AA" changeMark="1" changeType="add">Contamination analysis</objectValue>
+<objectValue valueForm="pattern" valueAllowed="[3][0-7][A-Z]">Project available</objectValue>
+<objectValue valueForm="single" valueAllowed="390" valueTailoring="restrictable">Sample test</objectValue>
+<objectValue valueForm="single" valueAllowed="396" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2009-036AA" changeMark="1" changeType="add">Flight control surface movement</objectValue>
+<objectValue valueForm="single" valueAllowed="397" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2009-036AA" changeMark="1" changeType="add">Landing gear movement</objectValue>
+<objectValue valueForm="single" valueAllowed="398" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2009-036AA" changeMark="1" changeType="add">Product configuration</objectValue>
+<objectValue valueForm="pattern" valueAllowed="[3][9][A-Z]">Project available</objectValue>
+<objectValue valueForm="single" valueAllowed="400" valueTailoring="restrictable">Fault reports and isolation procedures</objectValue>
+<objectValue valueForm="single" valueAllowed="401" valueTailoring="restrictable">List of consumables associated with fault diagnosis</objectValue>
+<objectValue valueForm="single" valueAllowed="402" valueTailoring="restrictable">List of materials associated with fault diagnosis</objectValue>
+<objectValue valueForm="single" valueAllowed="403" valueTailoring="restrictable">List of expendables associated with fault diagnosis</objectValue>
+<objectValue valueForm="single" valueAllowed="404" valueTailoring="restrictable">List of special support equipment and tools associated with fault diagnosis</objectValue>
+<objectValue valueForm="single" valueAllowed="405" valueTailoring="restrictable">List of support equipment and tools associated with fault diagnosis</objectValue>
+<objectValue valueForm="single" valueAllowed="406" valueTailoring="restrictable">List of software associated with fault diagnosis</objectValue>
+<objectValue valueForm="single" valueAllowed="407" valueTailoring="restrictable">Parts list associated with fault diagnosis</objectValue>
+<objectValue valueForm="single" valueAllowed="410" valueTailoring="restrictable">General fault description</objectValue>
+<objectValue valueForm="single" valueAllowed="411" valueTailoring="restrictable">Isolated fault</objectValue>
+<objectValue valueForm="single" valueAllowed="412" valueTailoring="restrictable">Detected fault</objectValue>
+<objectValue valueForm="single" valueAllowed="413" valueTailoring="restrictable">Observed fault</objectValue>
+<objectValue valueForm="single" valueAllowed="414" valueTailoring="restrictable">Correlated fault</objectValue>
+<objectValue valueForm="single" valueAllowed="415" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2008-018US" changeMark="1" changeType="add">Impact of fault</objectValue>
+<objectValue valueForm="single" valueAllowed="420" valueTailoring="restrictable">General fault isolation procedure</objectValue>
+<objectValue valueForm="single" valueAllowed="421" valueTailoring="restrictable">Fault isolation procedure</objectValue>
+<objectValue valueForm="single" valueAllowed="429" valueTailoring="restrictable">Diagnostics</objectValue>
+<objectValue valueForm="single" valueAllowed="430" valueTailoring="restrictable">Fault isolation task supporting data</objectValue>
+<objectValue valueForm="single" valueAllowed="440" valueTailoring="restrictable">Index</objectValue>
+<objectValue valueForm="single" valueAllowed="441" valueTailoring="restrictable">Fault code index</objectValue>
+<objectValue valueForm="single" valueAllowed="442" valueTailoring="restrictable">Maintenance message index</objectValue>
+<objectValue valueForm="single" valueAllowed="443" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2008-018US" changeMark="1" changeType="add">Post-troubleshooting shutdown procedures</objectValue>
+<objectValue valueForm="pattern" valueAllowed="[4][0-4][A-Z]">Project available</objectValue>
+<objectValue valueForm="single" valueAllowed="500" valueTailoring="restrictable">Disconnect, remove and disassemble procedures</objectValue>
+<objectValue valueForm="single" valueAllowed="501" valueTailoring="restrictable">List of consumables associated with removal</objectValue>
+<objectValue valueForm="single" valueAllowed="502" valueTailoring="restrictable">List of materials associated with removal</objectValue>
+<objectValue valueForm="single" valueAllowed="503" valueTailoring="restrictable">List of expendables associated with removal</objectValue>
+<objectValue valueForm="single" valueAllowed="504" valueTailoring="restrictable">List of special support equipment and tools associated with removal</objectValue>
+<objectValue valueForm="single" valueAllowed="505" valueTailoring="restrictable">List of support equipment and tools associated with removal</objectValue>
+<objectValue valueForm="single" valueAllowed="506" valueTailoring="restrictable">List of software associated with removal</objectValue>
+<objectValue valueForm="single" valueAllowed="507" valueTailoring="restrictable">Parts list associated with removal</objectValue>
+<objectValue valueForm="single" valueAllowed="510" valueTailoring="restrictable">Disconnect procedure</objectValue>
+<objectValue valueForm="single" valueAllowed="520" valueTailoring="restrictable">Remove procedure</objectValue>
+<objectValue valueForm="single" valueAllowed="521" valueTailoring="restrictable">Return to basic configuration Undressing</objectValue>
+<objectValue valueForm="single" valueAllowed="522" valueTailoring="restrictable">Remove support equipment/Remove from support equipment</objectValue>
+<objectValue valueForm="single" valueAllowed="523" valueTailoring="restrictable">Preparation before removal</objectValue>
+<objectValue valueForm="single" valueAllowed="524" valueTailoring="restrictable">Follow-on maintenance</objectValue>
+<objectValue valueForm="single" valueAllowed="525" valueTailoring="restrictable">Ammunition unloading</objectValue>
+<objectValue valueForm="single" valueAllowed="526" valueTailoring="restrictable">Deactivate launching device</objectValue>
+<objectValue valueForm="single" valueAllowed="530" valueTailoring="restrictable">Disassemble procedure</objectValue>
+<objectValue valueForm="single" valueAllowed="531" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2011-008DE" changeMark="1" changeType="add">Disassemble procedure on operation site</objectValue>
+<objectValue valueForm="single" valueAllowed="540" valueTailoring="restrictable">Open for access procedure</objectValue>
+<objectValue valueForm="single" valueAllowed="550" valueTailoring="restrictable">Unload software procedure</objectValue>
+<objectValue valueForm="single" valueAllowed="551" valueTailoring="restrictable">Fault monitoring storage readout (downloading)</objectValue>
+<objectValue valueForm="single" valueAllowed="552" valueTailoring="restrictable">Data erasing</objectValue>
+<objectValue valueForm="single" valueAllowed="553" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2009-090DE" changeMark="1" changeType="add">Display, copy and print of data</objectValue>
+<objectValue valueForm="single" valueAllowed="560" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2009-036AA" changeMark="1" changeType="add">Deactivation procedure</objectValue>
+<objectValue valueForm="single" valueAllowed="561" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2009-036AA" changeMark="1" changeType="add">De-Energize electrical network</objectValue>
+<objectValue valueForm="single" valueAllowed="562" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2009-036AA" changeMark="1" changeType="add">Depressurize hydraulics</objectValue>
+<objectValue valueForm="single" valueAllowed="563" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2009-036AA" changeMark="1" changeType="add">Deactivation maintenance practice</objectValue>
+<objectValue valueForm="pattern" valueAllowed="[5][0-6][A-Z]">Project available</objectValue>
+<objectValue valueForm="single" valueAllowed="600" valueTailoring="restrictable">Repairs and locally make procedures and data</objectValue>
+<objectValue valueForm="single" valueAllowed="601" valueTailoring="restrictable">List of consumables associated with repairs</objectValue>
+<objectValue valueForm="single" valueAllowed="602" valueTailoring="restrictable">List of materials associated with repairs</objectValue>
+<objectValue valueForm="single" valueAllowed="603" valueTailoring="restrictable">List of expendables associated with repairs</objectValue>
+<objectValue valueForm="single" valueAllowed="604" valueTailoring="restrictable">List of special support equipment and tools associated with repairs</objectValue>
+<objectValue valueForm="single" valueAllowed="605" valueTailoring="restrictable">List of support equipment and tools associated with repairs</objectValue>
+<objectValue valueForm="single" valueAllowed="606" valueTailoring="restrictable">List of software associated with repairs</objectValue>
+<objectValue valueForm="single" valueAllowed="607" valueTailoring="restrictable">Parts list associated with repairs</objectValue>
+<objectValue valueForm="single" valueAllowed="610" valueTailoring="restrictable">Add material</objectValue>
+<objectValue valueForm="single" valueAllowed="611" valueTailoring="restrictable">Insulation</objectValue>
+<objectValue valueForm="single" valueAllowed="612" valueTailoring="restrictable">Metalize</objectValue>
+<objectValue valueForm="single" valueAllowed="613" valueTailoring="restrictable">Pot</objectValue>
+<objectValue valueForm="single" valueAllowed="614" valueTailoring="restrictable">Remetal</objectValue>
+<objectValue valueForm="single" valueAllowed="615" valueTailoring="restrictable">Retread</objectValue>
+<objectValue valueForm="single" valueAllowed="620" valueTailoring="restrictable">Attach material</objectValue>
+<objectValue valueForm="single" valueAllowed="621" valueTailoring="restrictable">Bond</objectValue>
+<objectValue valueForm="single" valueAllowed="622" valueTailoring="restrictable">Crimp</objectValue>
+<objectValue valueForm="single" valueAllowed="623" valueTailoring="restrictable">Braze</objectValue>
+<objectValue valueForm="single" valueAllowed="624" valueTailoring="restrictable">Rivet</objectValue>
+<objectValue valueForm="single" valueAllowed="625" valueTailoring="restrictable">Solder</objectValue>
+<objectValue valueForm="single" valueAllowed="626" valueTailoring="restrictable">Splice</objectValue>
+<objectValue valueForm="single" valueAllowed="627" valueTailoring="restrictable">Weld</objectValue>
+<objectValue valueForm="single" valueAllowed="630" valueTailoring="restrictable">Change the mechanical strength/structure of material</objectValue>
+<objectValue valueForm="single" valueAllowed="631" valueTailoring="restrictable">Anneal</objectValue>
+<objectValue valueForm="single" valueAllowed="632" valueTailoring="restrictable">Case harden</objectValue>
+<objectValue valueForm="single" valueAllowed="633" valueTailoring="restrictable">Cure</objectValue>
+<objectValue valueForm="single" valueAllowed="634" valueTailoring="restrictable">Normalize</objectValue>
+<objectValue valueForm="single" valueAllowed="635" valueTailoring="restrictable">Shot-peen</objectValue>
+<objectValue valueForm="single" valueAllowed="636" valueTailoring="restrictable">Temper</objectValue>
+<objectValue valueForm="single" valueAllowed="638" valueTailoring="restrictable">Other treatment</objectValue>
+<objectValue valueForm="single" valueAllowed="639" valueTailoring="restrictable">Other process to change the mechanical strength/structure of material</objectValue>
+<objectValue valueForm="single" valueAllowed="640" valueTailoring="restrictable">Change the surface finish of material</objectValue>
+<objectValue valueForm="single" valueAllowed="641" valueTailoring="restrictable">Anodize</objectValue>
+<objectValue valueForm="single" valueAllowed="642" valueTailoring="restrictable">Buff</objectValue>
+<objectValue valueForm="single" valueAllowed="643" valueTailoring="restrictable">Burnish</objectValue>
+<objectValue valueForm="single" valueAllowed="644" valueTailoring="restrictable">Chromate</objectValue>
+<objectValue valueForm="single" valueAllowed="645" valueTailoring="restrictable">Hone</objectValue>
+<objectValue valueForm="single" valueAllowed="646" valueTailoring="restrictable">Lap</objectValue>
+<objectValue valueForm="single" valueAllowed="647" valueTailoring="restrictable">Plate</objectValue>
+<objectValue valueForm="single" valueAllowed="648" valueTailoring="restrictable">Polish</objectValue>
+<objectValue valueForm="single" valueAllowed="649" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2009-036AA" changeMark="1" changeType="modify">Clean-up of dents, cracks and scratches</objectValue>
+<objectValue valueForm="single" valueAllowed="650" valueTailoring="restrictable">Remove material</objectValue>
+<objectValue valueForm="single" valueAllowed="651" valueTailoring="restrictable">Abrasive blast</objectValue>
+<objectValue valueForm="single" valueAllowed="652" valueTailoring="restrictable">Bore/drill/ream</objectValue>
+<objectValue valueForm="single" valueAllowed="653" valueTailoring="restrictable">Electrical/electrochemical/chemical etch</objectValue>
+<objectValue valueForm="single" valueAllowed="654" valueTailoring="restrictable">Broach</objectValue>
+<objectValue valueForm="single" valueAllowed="655" valueTailoring="restrictable">Grind</objectValue>
+<objectValue valueForm="single" valueAllowed="656" valueTailoring="restrictable">Mill</objectValue>
+<objectValue valueForm="single" valueAllowed="657" valueTailoring="restrictable">Thread/tap</objectValue>
+<objectValue valueForm="single" valueAllowed="658" valueTailoring="restrictable">Turn</objectValue>
+<objectValue valueForm="single" valueAllowed="659" valueTailoring="restrictable">Other process to remove material</objectValue>
+<objectValue valueForm="single" valueAllowed="660" valueTailoring="restrictable">Structure repair procedure and data</objectValue>
+<objectValue valueForm="single" valueAllowed="661" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2009-036AA" changeMark="1" changeType="modify">Allowable damage</objectValue>
+<objectValue valueForm="single" valueAllowed="662" valueTailoring="restrictable">Temporary repair procedure</objectValue>
+<objectValue valueForm="single" valueAllowed="663" valueTailoring="restrictable">Standard repair procedure</objectValue>
+<objectValue valueForm="single" valueAllowed="664" valueTailoring="restrictable">Special repair procedure</objectValue>
+<objectValue valueForm="single" valueAllowed="665" valueTailoring="restrictable">Fly-in repair procedure</objectValue>
+<objectValue valueForm="single" valueAllowed="666" valueTailoring="restrictable">Material classification</objectValue>
+<objectValue valueForm="single" valueAllowed="667" valueTailoring="restrictable">Structure classification</objectValue>
+<objectValue valueForm="single" valueAllowed="668" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2009-036AA" changeMark="1" changeType="add">Allowable damage of composite structures</objectValue>
+<objectValue valueForm="single" valueAllowed="669" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2009-036AA" changeMark="1" changeType="add">Allowable damage of mixed structures</objectValue>
+<objectValue valueForm="single" valueAllowed="670" valueTailoring="restrictable">Locally make procedure and data</objectValue>
+<objectValue valueForm="single" valueAllowed="671" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2009-090DE" changeMark="1" changeType="add">Making of parts</objectValue>
+<objectValue valueForm="single" valueAllowed="680" valueTailoring="restrictable">Battle damage repair procedure and data</objectValue>
+<objectValue valueForm="single" valueAllowed="681" valueTailoring="restrictable">Damage repair symbol marking</objectValue>
+<objectValue valueForm="single" valueAllowed="682" valueTailoring="restrictable">Identification of damaged hardware</objectValue>
+<objectValue valueForm="single" valueAllowed="683" valueTailoring="restrictable">Damage assessment</objectValue>
+<objectValue valueForm="single" valueAllowed="684" valueTailoring="restrictable">Utilization degradation</objectValue>
+<objectValue valueForm="single" valueAllowed="685" valueTailoring="restrictable">Repair procedure</objectValue>
+<objectValue valueForm="single" valueAllowed="686" valueTailoring="restrictable">Isolation procedure</objectValue>
+<objectValue valueForm="single" valueAllowed="687" valueTailoring="restrictable">Function test after battle damage repair</objectValue>
+<objectValue valueForm="single" valueAllowed="688" valueTailoring="restrictable">Battle damage repair kit</objectValue>
+<objectValue valueForm="single" valueAllowed="689" valueTailoring="restrictable">Damage repair</objectValue>
+<objectValue valueForm="single" valueAllowed="690" valueTailoring="restrictable">Miscellaneous</objectValue>
+<objectValue valueForm="single" valueAllowed="691" valueTailoring="restrictable">Marking</objectValue>
+<objectValue valueForm="single" valueAllowed="692" valueTailoring="restrictable">Connector repair</objectValue>
+<objectValue valueForm="single" valueAllowed="693" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2011-008DE" changeMark="1" changeType="add">Varnish</objectValue>
+<objectValue valueForm="pattern" valueAllowed="[6][0-9][A-Z]">Project available</objectValue>
+<objectValue valueForm="single" valueAllowed="700" valueTailoring="restrictable">Assemble, install and connect procedures</objectValue>
+<objectValue valueForm="single" valueAllowed="701" valueTailoring="restrictable">List of consumables associated with installation</objectValue>
+<objectValue valueForm="single" valueAllowed="702" valueTailoring="restrictable">List of materials associated with installation</objectValue>
+<objectValue valueForm="single" valueAllowed="703" valueTailoring="restrictable">List of expendables associated with installation</objectValue>
+<objectValue valueForm="single" valueAllowed="704" valueTailoring="restrictable">List of special support equipment and tools associated with installation</objectValue>
+<objectValue valueForm="single" valueAllowed="705" valueTailoring="restrictable">List of support equipment and tools associated with installation</objectValue>
+<objectValue valueForm="single" valueAllowed="706" valueTailoring="restrictable">List of software associated with installation</objectValue>
+<objectValue valueForm="single" valueAllowed="707" valueTailoring="restrictable">Parts list associated with installation</objectValue> 	
+<objectValue valueForm="single" valueAllowed="710" valueTailoring="restrictable">Assemble procedure</objectValue>
+<objectValue valueForm="single" valueAllowed="711" valueTailoring="restrictable">Tighten procedure</objectValue>
+<objectValue valueForm="single" valueAllowed="712" valueTailoring="restrictable">Lock procedure</objectValue>
+<objectValue valueForm="single" valueAllowed="713" valueTailoring="restrictable">Pack procedure</objectValue>
+<objectValue valueForm="single" valueAllowed="714" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2011-008DE" changeMark="1" changeType="add">Assemble procedure on operation site</objectValue>
+<objectValue valueForm="single" valueAllowed="720" valueTailoring="restrictable">Install procedure</objectValue>
+<objectValue valueForm="single" valueAllowed="721" valueTailoring="restrictable">Build up to usable configuration Dressing</objectValue>
+<objectValue valueForm="single" valueAllowed="722" valueTailoring="restrictable">Install support equipment/Install on support equipment</objectValue>
+<objectValue valueForm="single" valueAllowed="723" valueTailoring="restrictable">Preparation before installation</objectValue>
+<objectValue valueForm="single" valueAllowed="724" valueTailoring="restrictable">Follow-on maintenance</objectValue>
+<objectValue valueForm="single" valueAllowed="725" valueTailoring="restrictable">Ammunition loading</objectValue>
+<objectValue valueForm="single" valueAllowed="726" valueTailoring="restrictable">Activate launching device</objectValue>
+<objectValue valueForm="single" valueAllowed="727" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2008-018US" changeMark="1" changeType="add">Site location plan</objectValue>
+<objectValue valueForm="single" valueAllowed="728" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2008-018US" changeMark="1" changeType="add">Foundation preparation</objectValue>
+<objectValue valueForm="single" valueAllowed="730" valueTailoring="restrictable">Connect procedure</objectValue>
+<objectValue valueForm="single" valueAllowed="740" valueTailoring="restrictable">Close after access procedure</objectValue>
+<objectValue valueForm="single" valueAllowed="750" valueTailoring="restrictable">Load software procedure</objectValue>
+<objectValue valueForm="single" valueAllowed="752" valueTailoring="restrictable">Data loading</objectValue>
+<objectValue valueForm="single" valueAllowed="760" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2009-036AA" changeMark="1" changeType="add">Reactivation procedure</objectValue>
+<objectValue valueForm="single" valueAllowed="761" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2009-036AA" changeMark="1" changeType="add">Energize electrical network</objectValue>
+<objectValue valueForm="single" valueAllowed="762" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2009-036AA" changeMark="1" changeType="add">Pressurize hydraulics</objectValue>
+<objectValue valueForm="pattern" valueAllowed="[7][0-6][A-Z]">Project available</objectValue>
+<objectValue valueForm="single" valueAllowed="800" valueTailoring="restrictable">Package, handling, storage, and transportation</objectValue>
+<objectValue valueForm="single" valueAllowed="801" valueTailoring="restrictable">List of consumables associated with storage</objectValue>
+<objectValue valueForm="single" valueAllowed="802" valueTailoring="restrictable">List of materials associated with storage</objectValue>
+<objectValue valueForm="single" valueAllowed="803" valueTailoring="restrictable">List of expendables associated with storage</objectValue>
+<objectValue valueForm="single" valueAllowed="804" valueTailoring="restrictable">List of special support equipment and tools associated with storage</objectValue>
+<objectValue valueForm="single" valueAllowed="805" valueTailoring="restrictable">List of support equipment and tools associated with storage</objectValue>
+<objectValue valueForm="single" valueAllowed="806" valueTailoring="restrictable">List of software associated with storage</objectValue>
+<objectValue valueForm="single" valueAllowed="807" valueTailoring="restrictable">Parts list associated with storage</objectValue>
+<objectValue valueForm="single" valueAllowed="810" valueTailoring="restrictable">Preservation procedure</objectValue>
+<objectValue valueForm="single" valueAllowed="811" valueTailoring="restrictable">Preparation for vehicle transportation</objectValue>
+<objectValue valueForm="single" valueAllowed="812" valueTailoring="restrictable">Shipping and storage - General</objectValue>
+<objectValue valueForm="single" valueAllowed="820" valueTailoring="restrictable">Procedure to remove preservation material</objectValue> 	
+<objectValue valueForm="single" valueAllowed="830" valueTailoring="restrictable">Procedure to put item in containers</objectValue>
+<objectValue valueForm="single" valueAllowed="831" valueTailoring="restrictable">Vehicle loading</objectValue>
+<objectValue valueForm="single" valueAllowed="832" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2009-090DE" changeMark="1" changeType="add">Procedure to pack items</objectValue>
+<objectValue valueForm="single" valueAllowed="840" valueTailoring="restrictable">Procedure to remove item from containers</objectValue>
+<objectValue valueForm="single" valueAllowed="841" valueTailoring="restrictable">Vehicle unloading</objectValue>
+<objectValue valueForm="single" valueAllowed="842" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2011-008DE" changeMark="1" changeType="add">Procedure to unpack items</objectValue>
+<objectValue valueForm="single" valueAllowed="850" valueTailoring="restrictable">Procedure to keep item serviceable when in storage</objectValue>
+<objectValue valueForm="single" valueAllowed="860" valueTailoring="restrictable">Procedure to move item when in storage</objectValue> 	
+<objectValue valueForm="single" valueAllowed="870" valueTailoring="restrictable">Procedure to prepare item for use after storage</objectValue>
+<objectValue valueForm="single" valueAllowed="871" valueTailoring="restrictable">Set on condition</objectValue>
+<objectValue valueForm="single" valueAllowed="880" valueTailoring="restrictable">Procedure when item got out of storage</objectValue> 	
+<objectValue valueForm="single" valueAllowed="890" valueTailoring="restrictable">Life data of item when in storage</objectValue>
+<objectValue valueForm="pattern" valueAllowed="[8][0-9][A-Z]">Project available</objectValue>
+<objectValue valueForm="single" valueAllowed="900" valueTailoring="restrictable">Miscellaneous</objectValue>
+<objectValue valueForm="single" valueAllowed="901" valueTailoring="restrictable">Miscellaneous list of consumables</objectValue>
+<objectValue valueForm="single" valueAllowed="902" valueTailoring="restrictable">Miscellaneous list of materials</objectValue>
+<objectValue valueForm="single" valueAllowed="903" valueTailoring="restrictable">Miscellaneous list of expendables</objectValue>
+<objectValue valueForm="single" valueAllowed="904" valueTailoring="restrictable">Miscellaneous list of special support equipment and tools</objectValue>
+<objectValue valueForm="single" valueAllowed="905" valueTailoring="restrictable">Miscellaneous list of support equipment and tools</objectValue>
+<objectValue valueForm="single" valueAllowed="906" valueTailoring="restrictable">Miscellaneous list of software</objectValue>
+<objectValue valueForm="single" valueAllowed="907" valueTailoring="restrictable">Miscellaneous parts list</objectValue>
+<objectValue valueForm="single" valueAllowed="910" valueTailoring="restrictable">Miscellaneous</objectValue>
+<objectValue valueForm="single" valueAllowed="911" valueTailoring="restrictable">Illustration</objectValue>
+<objectValue valueForm="single" valueAllowed="912" valueTailoring="restrictable">Handling procedure</objectValue>
+<objectValue valueForm="single" valueAllowed="913" valueTailoring="restrictable">General maintenance procedure</objectValue>
+<objectValue valueForm="single" valueAllowed="914" valueTailoring="restrictable">Container data module</objectValue>
+<objectValue valueForm="single" valueAllowed="915" valueTailoring="restrictable">Facilities</objectValue>
+<objectValue valueForm="single" valueAllowed="916" valueTailoring="restrictable">Maintenance allocation</objectValue>
+<objectValue valueForm="single" valueAllowed="917" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2009-036AA" changeMark="1" changeType="add">Non-S1000D publication</objectValue>
+<objectValue valueForm="single" valueAllowed="920" valueTailoring="restrictable">Change = Remove and install</objectValue>
+<objectValue valueForm="single" valueAllowed="921" valueTailoring="restrictable">Change = Remove and install a new item</objectValue>
+<objectValue valueForm="single" valueAllowed="922" valueTailoring="restrictable">Change = Remove and install the removed item</objectValue>
+<objectValue valueForm="single" valueAllowed="923" valueTailoring="restrictable">Change = Disconnect and connect an item</objectValue> 	
+<objectValue valueForm="single" valueAllowed="930" valueTailoring="restrictable">Service bulletin</objectValue>
+<objectValue valueForm="single" valueAllowed="933" valueTailoring="restrictable">Accomplishment procedure - Task set</objectValue>
+<objectValue valueForm="single" valueAllowed="934" valueTailoring="restrictable">Material information</objectValue>
+<objectValue valueForm="single" valueAllowed="940" valueTailoring="restrictable">Provisioning data</objectValue>
+<objectValue valueForm="single" valueAllowed="941" valueTailoring="restrictable">Illustrated parts data</objectValue>
+<objectValue valueForm="single" valueAllowed="942" valueTailoring="restrictable">Numerical index</objectValue>
+<objectValue valueForm="single" valueAllowed="950" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2009-019S1" changeMark="1" changeType="modify">Composite information</objectValue>
+<objectValue valueForm="single" valueAllowed="951" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2009-019S1" changeMark="1" changeType="add">Generic process</objectValue>
+<objectValue valueForm="single" valueAllowed="952" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2009-019S1" changeMark="1" changeType="add">Generic learning content</objectValue>
+<objectValue valueForm="single" valueAllowed="961" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2009-036AA" changeMark="1" changeType="add">Calculation worksheets</objectValue>
+<objectValue valueForm="single" valueAllowed="970" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2009-036AA" changeMark="1" changeType="add">Approved vendor processes</objectValue>
+<objectValue valueForm="single" valueAllowed="980" valueTailoring="restrictable">Environmental protection, fire-fighting and rescue</objectValue>
+<objectValue valueForm="single" valueAllowed="981" valueTailoring="restrictable">Air cleaning</objectValue>
+<objectValue valueForm="single" valueAllowed="982" valueTailoring="restrictable">Sewage treatment</objectValue>
+<objectValue valueForm="single" valueAllowed="989" valueTailoring="restrictable">Fire-fighting and rescue</objectValue>
+<objectValue valueForm="single" valueAllowed="990" valueTailoring="restrictable">Neutralization and disposal</objectValue>
+<objectValue valueForm="single" valueAllowed="991" valueTailoring="restrictable">Neutralization of ordnance</objectValue>
+<objectValue valueForm="single" valueAllowed="992" valueTailoring="restrictable">Neutralization of substance</objectValue>
+<objectValue valueForm="single" valueAllowed="996" valueTailoring="restrictable">Disposal of ordnance</objectValue>
+<objectValue valueForm="single" valueAllowed="997" valueTailoring="restrictable">Disposal of product</objectValue>
+<objectValue valueForm="single" valueAllowed="998" valueTailoring="restrictable">Disposal of substance</objectValue>
+<objectValue valueForm="pattern" valueAllowed="[9][0-9][A-Z]">Project available</objectValue>
+<objectValue valueForm="single" valueAllowed="C00" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2008-033US" changeMark="1" changeType="add">Computer systems, software and data</objectValue>
+<objectValue valueForm="single" valueAllowed="C01" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2008-033US" changeMark="1" changeType="add">Miscellaneous list of consumables associated with computer systems, software and data</objectValue>
+<objectValue valueForm="single" valueAllowed="C02" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2008-033US" changeMark="1" changeType="add">Miscellaneous list of materials associated with computer systems, software and data</objectValue>
+<objectValue valueForm="single" valueAllowed="C03" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2008-033US" changeMark="1" changeType="add">Miscellaneous list of expendables associated with computer systems, software and data</objectValue>
+<objectValue valueForm="single" valueAllowed="C04" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2008-033US" changeMark="1" changeType="add">Miscellaneous list of special support equipment and tools associated with computer systems, software and data</objectValue>
+<objectValue valueForm="single" valueAllowed="C05" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2008-033US" changeMark="1" changeType="add">Miscellaneous list of support equipment and tools associated with computer systems, software and data</objectValue>
+<objectValue valueForm="single" valueAllowed="C06" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2008-033US" changeMark="1" changeType="add">Miscellaneous list of software associated with computer systems, software and data</objectValue>
+<objectValue valueForm="single" valueAllowed="C07" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2008-033US" changeMark="1" changeType="add">Miscellaneous parts list associated with computer systems, software and data</objectValue>
+<objectValue valueForm="single" valueAllowed="C13" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2008-033US" changeMark="1" changeType="add">Notes</objectValue>
+<objectValue valueForm="single" valueAllowed="C14" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2008-033US" changeMark="1" changeType="add">Problem handling</objectValue>
+<objectValue valueForm="single" valueAllowed="C15" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2008-033US" changeMark="1" changeType="add">Summary of content</objectValue>
+<objectValue valueForm="single" valueAllowed="C20" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2008-033US" changeMark="1" changeType="add">System administration</objectValue>
+<objectValue valueForm="single" valueAllowed="C21" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2008-033US" changeMark="1" changeType="add">System monitoring</objectValue>
+<objectValue valueForm="single" valueAllowed="C22" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2008-033US" changeMark="1" changeType="add">Description of command</objectValue>
+<objectValue valueForm="single" valueAllowed="C23" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2008-033US" changeMark="1" changeType="add">Connect hardware</objectValue>
+<objectValue valueForm="single" valueAllowed="C25" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2008-033US" changeMark="1" changeType="add">System recovery</objectValue>
+<objectValue valueForm="single" valueAllowed="C26" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2008-033US" changeMark="1" changeType="add">Backup and restore</objectValue>
+<objectValue valueForm="single" valueAllowed="C27" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2008-033US" changeMark="1" changeType="add">Reboot</objectValue>
+<objectValue valueForm="single" valueAllowed="C30" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2008-033US" changeMark="1" changeType="add">Coordinate</objectValue>
+<objectValue valueForm="single" valueAllowed="C31" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2008-033US" changeMark="1" changeType="add">Defragmentation</objectValue>
+<objectValue valueForm="single" valueAllowed="C32" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2008-033US" changeMark="1" changeType="add">Input/Output media</objectValue>
+<objectValue valueForm="single" valueAllowed="C33" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2008-033US" changeMark="1" changeType="add">Disk mirroring</objectValue>
+<objectValue valueForm="single" valueAllowed="C34" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2008-033US" changeMark="1" changeType="add">Clear interference</objectValue>
+<objectValue valueForm="single" valueAllowed="C35" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2008-033US" changeMark="1" changeType="add">Time check</objectValue>
+<objectValue valueForm="single" valueAllowed="C36" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2008-033US" changeMark="1" changeType="add">Compatibility check</objectValue>
+<objectValue valueForm="pattern" valueAllowed="[C][0-3][A-Z]">Project available</objectValue>
+<objectValue valueForm="single" valueAllowed="C50" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2008-033US" changeMark="1" changeType="add">Manage data</objectValue>
+<objectValue valueForm="single" valueAllowed="C51" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2008-033US" changeMark="1" changeType="add">Move data</objectValue>
+<objectValue valueForm="single" valueAllowed="C52" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2008-033US" changeMark="1" changeType="add">Manipulate/Use data</objectValue>
+<objectValue valueForm="single" valueAllowed="C53" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2008-033US" changeMark="1" changeType="add">Description of data storage</objectValue>
+<objectValue valueForm="single" valueAllowed="C60" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2008-033US" changeMark="1" changeType="add">Programming information</objectValue>
+<objectValue valueForm="single" valueAllowed="C61" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2008-033US" changeMark="1" changeType="add">Program flow chart</objectValue>
+<objectValue valueForm="single" valueAllowed="C62" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2008-033US" changeMark="1" changeType="add">Processing reference guide</objectValue>
+<objectValue valueForm="single" valueAllowed="C70" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2008-033US" changeMark="1" changeType="add">Security and privacy</objectValue>
+<objectValue valueForm="single" valueAllowed="C72" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2008-033US" changeMark="1" changeType="add">Security information</objectValue>
+<objectValue valueForm="single" valueAllowed="C73" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2008-033US" changeMark="1" changeType="add">Security procedures</objectValue>
+<objectValue valueForm="single" valueAllowed="C74" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2008-033US" changeMark="1" changeType="add">List of security/classification codes</objectValue>
+<objectValue valueForm="single" valueAllowed="C75" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2008-033US" changeMark="1" changeType="add">Access control</objectValue>
+<objectValue valueForm="pattern" valueAllowed="[C][5-7][A-Z]">Project available</objectValue>
+<objectValue valueForm="single" valueAllowed="C90" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2008-033US" changeMark="1" changeType="add">Miscellaneous</objectValue>
+<objectValue valueForm="single" valueAllowed="C91" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2008-033US" changeMark="1" changeType="add">Quality assurance</objectValue>
+<objectValue valueForm="single" valueAllowed="C92" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2008-033US" changeMark="1" changeType="add">Vendor information</objectValue>
+<objectValue valueForm="single" valueAllowed="C95" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2008-033US" changeMark="1" changeType="add">Naming conventions</objectValue>
+<objectValue valueForm="single" valueAllowed="C96" valueTailoring="restrictable" reasonForUpdateRefIds="CPF2008-033US" changeMark="1" changeType="add">Technical requirements</objectValue> 
+<objectValue valueForm="pattern" valueAllowed="[C][9][A-Z]">Project available</objectValue></structureObjectRule></root>

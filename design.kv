@@ -1,0 +1,133 @@
+<RootPopup>
+    id: root_popup
+    title: "INFONAME AND TECHNAME UPDATE"
+    size_hint: None, None
+    size: dp(600), dp(300)
+    auto_dismiss: False
+
+    BoxLayout:
+        orientation: 'vertical'
+        spacing: dp(10)
+        padding: (20, 10, 20, 10)
+        BoxLayout:
+            spacing: dp(10)
+            MDCard:
+                orientation: 'vertical'
+                padding: (10, 10, 10, 10)
+                spacing: dp(10)
+                md_bg_color: 0.15, 0.15, 0.15, 1
+                size_hint: 0.6, 1
+                MDLabel:
+                    id: input_textbox
+                    radius: 10
+                    text: 'Please drop your folder here'
+                    style: 'outlined'
+                    line_color: rgba('#199AE5')
+                    line_width: 1.2
+                    font_size: 18
+                    halign: "center"
+                    bold: True
+                    color: 0.6, 0.6, 0.6, 1
+            BoxLayout:
+                orientation: 'vertical'
+                size_hint: 0.4, 0.9
+                spacing: dp(20)
+                padding: (0, 20, 0, 20)
+                MDCard:
+                    radius: 20
+                    padding: (38, 10, 10, 10)
+                    orientation: 'horizontal'
+                    style: 'outlined'
+                    line_color: rgba('#199AE5')
+                    line_width: 1.2
+                    spacing: dp(20)
+                    MDCheckbox:
+                        group: 'group'
+                        size_hint: 0.1, 1
+                        id: infoname_checkbox
+                    MDLabel:
+                        size_hint: 0.5, 1
+                        text: 'Only infoName'
+                        halign: 'left'
+                MDCard:
+                    radius: 20
+                    padding: (38, 10, 10, 10)
+                    orientation: 'horizontal'
+                    style: 'outlined'
+                    line_color: rgba('#199AE5')
+                    line_width: 1.2
+                    spacing: dp(20)
+                    MDCheckbox:
+                        group: "group"
+                        size_hint: 0.1, 1
+                        id: techname_checkbox
+                    MDLabel:
+                        size_hint: 0.5, 1
+                        text: 'Only techName'
+                        halign: 'left'
+
+
+        BoxLayout:
+            spacing: dp(20)
+            size_hint: 1, 0.4
+            spacing: dp(120)
+            #pos_hint: {'right': 1}
+            canvas.before:
+                Color:
+                    rgba: 1, 0, 0, 0
+                Line:
+                    width:1
+                    rectangle: self.x, self.y, self.width, self.height
+            BoxLayout:
+                size_hint: 0.2, 1
+                HoverFloat:
+                    icon: 'download'
+                    on_release:
+                        root.template_download('dm_label.xlsx')
+
+            BoxLayout:
+                size_hint: 0.8, 1
+                spacing: dp(20)
+                HoverFlat:
+                    text: 'Quit'
+                    line_width: 1.3
+                    on_release:
+                        app.action_quit('create_template.exe')
+                        app.action_quit('infotech.exe')
+
+                HoverFlat:
+                    text: 'Clear'
+                    line_width: 1.3
+                    on_release:
+                        root.clear_input()
+
+                HoverCard:
+                    text: 'Update'
+                    on_release:
+                        root.update_attribs()
+
+                HoverCard:
+                    text: 'Change'
+                    on_release:
+                        root.change_attribs()
+
+<Matter>
+    orientation: "horizontal"
+    spacing: dp(20)
+    size_hint: 0.4, 1
+    MDTextButton:
+        text: "Processing ... "
+        bold: True
+        font_size: 18
+        pos_hint: {'center_x': 0.7}
+        valign: "middle"
+
+<Tooltip>:
+    size_hint: None, None
+    size: self.texture_size[0]+15, self.texture_size[1]+15
+    canvas.before:
+        Color:
+            rgb: 0.2, 0.2, 0.2
+        Rectangle:
+            size: self.size
+            pos: self.pos
